@@ -1,0 +1,322 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Lista 10",DISNEY CHANNEL
+http://38.18.238.20:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",DISNEY XD
+http://38.18.238.35:2095/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",DISNEY JR
+http://23.237.29.98:2095/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",CARTOON NETWORK
+http://38.18.238.20:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",BOOMERANG
+http://23.237.29.98:2095/308BoomerangMexico/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",NICKELODEON
+http://38.18.238.20:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",DISCOVERY KIDS
+http://38.18.238.20:2095/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",NICK JR
+http://23.237.29.98:2095/306NickJrLatinAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 14",NICK2
+https://blackghost.live/play/catorce-311.php?c=179
+
+#EXTINF:-1 group-title="Lista 10",NAT GEO KIDS
+http://23.237.29.98:2095/294NatGeoKids/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",BABY TV
+http://23.237.29.98:2095/315BabyTVLatinAmerica/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 14",TOON CAST
+https://blackghost.live/play/catorce-311.php?c=154
+
+#EXTINF:-1 group-title="Lista 14",BITME CHANNEL
+https://blackghost.live/play/catorce-311.php?c=161
+
+#EXTINF:-1 group-title="Lista 10",HBO XTREME
+http://38.18.238.20:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",HBO FAMILY
+http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",HBO PLUS
+http://38.18.238.20:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",HBO2
+http://38.18.238.20:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 15",CINE: HBO POP
+https://blackghost.live/play/tiburon-311.php?c=11004
+
+#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=maxlatino&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX SERIES
+http://23.237.29.98:2095/660fox1/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX FAMILY
+http://23.237.29.98:2095/665foxFamily/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX LIFE
+http://23.237.29.98:2095/209FoxLife/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX MOVIES
+http://38.18.238.20:2095/667Fmovies/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX ACTION
+http://38.18.238.20:2095/662foxAction/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX CLASSICS
+http://23.237.29.98:2095/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FXX
+http://23.237.29.98:2095/9520FXX/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX
+http://38.18.238.20:2095/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FX
+http://38.18.238.20:2095/207FXLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",PARAMOUNT
+http://23.237.29.98:2095/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",CINEMAX
+http://38.18.238.42:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",MULTIPREMIER
+http://23.237.29.98:2095/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 15",CINE: GOLDEN EDGE
+https://blackghost.live/play/tiburon-311.php?c=77
+
+#EXTINF:-1 group-title="Lista 10",CINELATINO
+http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",DEPELICULA
+http://38.18.238.42:2095/live/DTHEATER/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",TNT
+http://38.18.238.20:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",TNT SERIES
+http://38.18.238.20:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/tcmlatino.png" group-title="Lista 16",TCM LATINO
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=tcm&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 10",UNIVERSAL
+http://23.237.29.98:2095/206Studio/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",UNIVERSAL
+http://38.18.238.20:2095/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",SYFY
+http://23.237.29.98:2095/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",TBS
+http://23.237.29.98:2095/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",A&E
+http://23.237.29.98:2095/9419AE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",LIFETIME
+http://23.237.29.98:2095/414LIFET/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",E ENTERTAINMENT
+http://23.237.29.98:2095/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 14",TLC
+https://blackghost.live/play/catorce-311.php?c=144
+
+#EXTINF:-1 group-title="Lista 10",SPACE
+http://38.18.238.20:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",SONY
+http://23.237.29.98:2095/211sony/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",WARNER
+http://38.18.238.20:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",AXN
+http://38.18.238.20:2095/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",COMEDY CENTRAL
+http://38.18.238.20:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 14",ANIMAL PLANET
+https://blackghost.live/play/catorce-311.php?c=151
+
+#EXTINF:-1 group-title="Lista 10",DISCOVERY TURBO
+http://23.237.29.98:2095/345turbo/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",DISCOVERY WORLD
+http://38.18.238.42:2095/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",DISCOVERY CHANNEL
+http://38.18.238.20:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",DISCOVERY HOME AND HEALTH
+http://38.18.238.20:2095/215DiscoveryHHLatinoAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",INVESTIGACION DISCOVERY
+http://38.18.238.20:2095/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",NATIONAL GEOGRAFIC CHANNEL
+http://38.18.238.20:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",NATGEO WILD
+http://38.18.238.20:2095/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",HISTORY
+http://38.18.238.20:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",HISTORY 2
+http://38.18.238.20:2095/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 14",TRU TV
+https://blackghost.live/play/catorce-311.php?c=138
+
+#EXTINF:-1 group-title="Lista 14",10 ARTV
+https://blackghost.live/play/catorce-311.php?c=416
+
+#EXTINF:-1 group-title="Lista 10",AZTECA 7
+http://38.18.238.20:2095/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/eltrece.png" group-title="Lista 16",EL TRECE
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=eltrece&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 10",UNICABLE
+http://38.18.238.20:2095/encoder18/unicable/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",UNIVISION
+http://38.18.238.35:2095/0000/CH=%C2%A0PR-WLII/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",MEGA
+http://38.18.238.42:2095/megatvpr/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",CANAL 5
+http://38.18.238.42:2095/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",CANAL DE LAS ESTRELLAS
+http://38.18.238.42:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/telefe.png" group-title="Lista 16",TELEFE
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=telefe&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 14",TELEMUNDO
+https://blackghost.live/play/catorce-311.php?c=124
+
+#EXTINF:-1 tvg-logo="/logos/telenovelas.png" group-title="Lista 16",TLNOVELAS
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=telenovelas&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 14",TELENOVELAS
+https://blackghost.live/play/catorce-311.php?c=168
+
+#EXTINF:-1 group-title="Lista 15",PASIONES SD
+https://blackghost.live/play/tiburon-311.php?c=68094
+
+#EXTINF:-1 group-title="Lista 10",ESPN
+http://38.18.238.20:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",ESPN 2
+http://38.18.238.20:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",ESPN 3
+http://38.18.238.20:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",ESPN PLUS
+http://38.18.238.42:2095/encoder64/f1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",ESPN DEPORTES
+http://38.18.238.42:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 14",ESPN
+https://blackghost.live/play/catorce-311.php?c=110
+
+#EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=goltvlatino&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX SPORTS 1
+http://38.18.238.20:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX SPORTS 2
+http://38.18.238.20:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7xÂ¦c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",FOX SPORTS 3
+http://38.18.238.20:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1  group-title="Lista 16",Futbol España Bein Sports (datv)*
+http://blackghost.live/play/wistream2.php?canal=beinsports&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 15",DEPORTES | DIRECTV SPORTS 1 HD
+https://blackghost.live/play/tiburon-311.php?c=132
+
+#EXTINF:-1 group-title="Lista 15",DEPORTES | LA LIGA TV BAR HD
+https://blackghost.live/play/tiburon-311.php?c=35169
+
+#EXTINF:-1 group-title="Lista 15",USA:NBA USA
+https://blackghost.live/play/tiburon-311.php?c=66463
+
+#EXTINF:-1 group-title="Lista 15",DEPORTES  NBA 
+https://blackghost.live/play/tiburon-311.php?c=30622
+
+#EXTINF:-1 group-title="Lista 10",UFC ADRENALINA
+http://38.18.237.42:2095/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=univisiondeportes&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 10",TUDN
+http://38.18.238.20:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=beinlatino&k=black-ghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 10",BEIN
+http://38.18.238.20:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 10",CLARO SPORTS
+http://38.18.238.20:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 group-title="Lista 14",REAL MADRID TV 
+https://blackghost.live/play/catorce-311.php?c=408
+
+#EXTINF:-1 group-title="Lista 10",CNN EN ESPANOL
+http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 10",MTV LATINO
+http://23.237.29.98:2095/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 14",TELEHIT URBANO
+https://blackghost.live/play/catorce-311.php?c=153
+
+#EXTINF:-1 tvg-logo="https://sillyfunda.files.wordpress.com/2013/08/mtv-90s-masthead.png?w=673&h=500&crop=1" group-title="MUSICA",MTV USA http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 group-title="Lista 10",VH1
+http://23.237.29.98:2095/254VH1/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/c6FKZb" group-title="RELIGIOSOS",CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA tv HD
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Tv EN VIVO HD
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
